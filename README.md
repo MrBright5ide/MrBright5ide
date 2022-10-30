@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrBright5ide
-- 👀 I’m interested in Vieo Games, Electronics, HTML, and Python
+- 👀 I’m interested in Video Games, Electronics, HTML, and Python
 - 🌱 I’m currently learning Electronics and C#
 - 💞️ I’m looking to collaborate on Video Games
 - 📫 How to reach me --Not sure yet--
